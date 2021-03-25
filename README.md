@@ -2,10 +2,15 @@
 Student Portal Plugin
 
   1. Setup a student in the WordPress site 
+
       a. create a user in WP users
+
       b. set levels in Wishlist Member
+
       c. set courses in Learndash
+
       d. Manage packages
+
       
   2. API for Student Setup.
       a. Rest API for the User Creation (External app 
