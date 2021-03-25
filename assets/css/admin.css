@@ -1,0 +1,20 @@
+.sppage{border:1px solid #E05A93;    margin-top: 15px;padding-bottom: 20px;}
+.sp_title{    background: #E05A93;
+    color: #fff;
+    font-size: 20px;
+    padding: 9px;}
+.sppage input[type=checkbox]:checked:before {
+
+    color: #E05A93;
+}
+.sp_subtitle{
+	    clear: both;
+    border-bottom: 1px solid #ccc;
+    margin: 18px 0px;
+    padding: 9px 0px;
+}
+label.error{    color: red;
+    font-weight: normal;}
+
+#ClickfunnelModal{background: #0000008c;}
+#ClickfunnelModal .modal-dialog{top: 10%;}
